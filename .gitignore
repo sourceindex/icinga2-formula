@@ -1,4 +1,5 @@
 .vagrant/*
+**/*/.vagrant
 .tox
 .cache
 __pycache__
