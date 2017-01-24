@@ -1,6 +1,6 @@
 icinga2:
-  master_minion_id: salt
-  master_fqdn: salt
+  master_minion_id: min1
+  master_fqdn: min1
   port: 5665
   config:
     templates:
